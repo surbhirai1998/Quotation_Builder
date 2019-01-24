@@ -1,0 +1,5 @@
+mysql injection - change all sql queries into parameterised
+domain names
+make config file having base url mysql details
+BCrypt for password 
+use small letters for name of tables.
